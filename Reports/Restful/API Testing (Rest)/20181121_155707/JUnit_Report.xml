@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API Testing (Rest)" time="1" tests="1" failures="0" errors="0">
+   <testsuite name="API Testing (Rest)" tests="1" failures="0" errors="0" time="1" timestamp="2018-11-21 15:57:08" hostname="mojidra_n - Nirmal-M.India.XoriantCorp.com" id="Test Suites/Restful/API Testing (Rest)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Demo\\API Testing Demo\\Reports\\Restful\\API Testing (Rest)\\20181121_155707"/>
+         <property name="logFiles" value="D:\\Demo\\API Testing Demo\\Reports\\Restful\\API Testing (Rest)\\20181121_155707\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mojidra_n - Nirmal-M.India.XoriantCorp.com"/>
+         <property name="hostAddress" value="10.20.4.197"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+      </properties>
+      <testcase name="Test Cases/Test Case Rest API/Demo Rest API (Get Request)" classname="Test Cases/Test Case Rest API/Demo Rest API (Get Request)" status="PASSED">
+         <system-out><![CDATA[2018-11-21 15:57:08 - [TEST_CASE][PASSED] - Test Cases/Test Case Rest API/Demo Rest API (Get Request): Test Cases/Test Case Rest API/Demo Rest API (Get Request)
+
+2018-11-21 15:57:09 - [TEST_STEP][PASSED] - Statement - Response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Rest API/GetUserDetails)): Send request successfully
+
+2018-11-21 15:57:10 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-21 15:57:10 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-21 15:57:10 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-21 15:57:10 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-21 15:57:10 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-21 15:57:08 - [TEST_SUITE][PASSED] - API Testing (Rest): Test Cases/Test Case Rest API/Demo Rest API (Get Request)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

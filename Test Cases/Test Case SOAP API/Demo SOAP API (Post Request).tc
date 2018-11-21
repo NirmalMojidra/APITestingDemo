@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo SOAP API (Post Request)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a8ded84-8251-4d9b-8dae-1058fa02775d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>bdfc102b-202a-4572-a42b-972a049c7945</id>
+      <masked>false</masked>
+      <name>CountryName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bac17bd7-1ab2-45fc-8b83-87a201f4c391</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+</TestCaseEntity>

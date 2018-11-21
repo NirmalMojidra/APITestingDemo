@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API Testing (SOAP)" time="2" tests="2" failures="0" errors="0">
+   <testsuite name="API Testing (SOAP)" tests="2" failures="0" errors="0" time="2" timestamp="2018-11-21 16:00:44" hostname="mojidra_n - Nirmal-M.India.XoriantCorp.com" id="Test Suites/SOAP/API Testing (SOAP)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Demo\\API Testing Demo\\Reports\\SOAP\\API Testing (SOAP)\\20181121_160042"/>
+         <property name="logFiles" value="D:\\Demo\\API Testing Demo\\Reports\\SOAP\\API Testing (SOAP)\\20181121_160042\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mojidra_n - Nirmal-M.India.XoriantCorp.com"/>
+         <property name="hostAddress" value="10.20.4.197"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+      </properties>
+      <testcase name="Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)" classname="Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)" status="PASSED">
+         <system-out><![CDATA[2018-11-21 16:00:44 - [TEST_CASE][PASSED] - Test Cases/Test Case SOAP API/Demo SOAP API (Post Request): Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)
+
+2018-11-21 16:00:44 - [TEST_STEP][PASSED] - Statement - CountryName = CountryName: null
+
+2018-11-21 16:00:44 - [TEST_STEP][PASSED] - Statement - Response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/SOAP/CapitalCity)): Send request successfully
+
+2018-11-21 16:00:46 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-21 16:00:46 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-21 16:00:46 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-21 16:00:46 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-21 16:00:46 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)" classname="Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)" status="PASSED">
+         <system-out><![CDATA[2018-11-21 16:00:46 - [TEST_CASE][PASSED] - Test Cases/Test Case SOAP API/Demo SOAP API (Post Request): Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)
+
+2018-11-21 16:00:46 - [TEST_STEP][PASSED] - Statement - CountryName = CountryName: null
+
+2018-11-21 16:00:46 - [TEST_STEP][PASSED] - Statement - Response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/SOAP/CapitalCity)): Send request successfully
+
+2018-11-21 16:00:46 - [MESSAGE][PASSED] - Send request successfully
+
+2018-11-21 16:00:47 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-11-21 16:00:47 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-11-21 16:00:47 - [TEST_STEP][PASSED] - verifyElementPropertyValue: Verify element property value successfully
+
+2018-11-21 16:00:47 - [MESSAGE][PASSED] - Verify element property value successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-21 16:00:44 - [TEST_SUITE][PASSED] - API Testing (SOAP): Test Cases/Test Case SOAP API/Demo SOAP API (Post Request)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+API Testing (SOAP),,,2018-11-21 16:00:44,2018-11-21 16:00:47,2.868s,PASSED
+,,,,,,
+Test Cases/Test Case SOAP API/Demo SOAP API (Post Request),,,2018-11-21 16:00:44,2018-11-21 16:00:46,1.883s,PASSED
+Statement - CountryName = CountryName,,,2018-11-21 16:00:44,2018-11-21 16:00:44,0.012s,PASSED
+Statement - Response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/SOAP/CapitalCity)),,,2018-11-21 16:00:44,2018-11-21 16:00:46,1.289s,PASSED
+verifyResponseStatusCode,,,2018-11-21 16:00:46,2018-11-21 16:00:46,0.025s,PASSED
+verifyElementPropertyValue,,,2018-11-21 16:00:46,2018-11-21 16:00:46,0.195s,PASSED
+,,,,,,
+Test Cases/Test Case SOAP API/Demo SOAP API (Post Request),,,2018-11-21 16:00:46,2018-11-21 16:00:47,0.643s,PASSED
+Statement - CountryName = CountryName,,,2018-11-21 16:00:46,2018-11-21 16:00:46,0.000s,PASSED
+Statement - Response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/SOAP/CapitalCity)),,,2018-11-21 16:00:46,2018-11-21 16:00:47,0.572s,PASSED
+verifyResponseStatusCode,,,2018-11-21 16:00:47,2018-11-21 16:00:47,0.016s,PASSED
+verifyElementPropertyValue,,,2018-11-21 16:00:47,2018-11-21 16:00:47,0.033s,PASSED
